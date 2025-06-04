@@ -9,7 +9,7 @@ Control the popular game **Subway Surfers** on your PC using just your hand gest
 - **Start Game with Fist** ✊: Show a closed fist to start the game (simulates pressing Spacebar).
 - **Move Character with Index Finger Swipe** 👉👈👆👇: Swipe your index finger left, right, up, or down to control movement (simulates arrow keys).
 - Works with any PC game that uses arrow keys and spacebar for control.
-  
+- click q key to exit MediaPipe (to close camera)  
 ---
 
 ## Demo
