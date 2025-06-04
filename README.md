@@ -14,7 +14,7 @@ Control the popular game **Subway Surfers** on your PC using just your hand gest
 
 ## Demo
 
-![image](https://github.com/user-attachments/assets/43c4799a-32f2-43e4-87fb-5a024c671b62)![image](https://github.com/user-attachments/assets/3c285296-9048-4677-b062-57ade57843e8)
+![image](https://github.com/user-attachments/assets/43c4799a-32f2-43e4-87fb-5a024c671b62)
 
 
 ---
