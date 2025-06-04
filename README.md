@@ -29,5 +29,5 @@ Control the popular game **Subway Surfers** on your PC using just your hand gest
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/subway-surfer-hand-gesture.git
+   git clone https://github.com/prashantmahawar75/subway-surfer-hand-simulation/tree/main
    cd subway-surfer-hand-gesture
