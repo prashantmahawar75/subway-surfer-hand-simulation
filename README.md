@@ -1,4 +1,4 @@
-# Hand Gesture Control for Subway Surfers 🎮🖐️
+![image](https://github.com/user-attachments/assets/43c4799a-32f2-43e4-87fb-5a024c671b62)![image](https://github.com/user-attachments/assets/3c285296-9048-4677-b062-57ade57843e8)# Hand Gesture Control for Subway Surfers 🎮🖐️
 
 Control the popular game **Subway Surfers** on your PC using just your hand gestures! This project uses **MediaPipe** for hand detection, **OpenCV** for webcam feed, and **pyautogui** to simulate keyboard presses based on your gestures.
 
@@ -14,7 +14,8 @@ Control the popular game **Subway Surfers** on your PC using just your hand gest
 
 ## Demo
 
-![Demo GIF or Screenshot here]
+![Uploading Screenshot 2025-06-04 190154.png…]()
+
 
 ---
 
